@@ -1,2 +1,0 @@
-deepubadri.github.io
-====================
